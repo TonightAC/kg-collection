@@ -1,4 +1,6 @@
 # 极客时间
+这些课程质量都非常高，只收纳我自己学完的。
+
 操作系统篇
 
 `
@@ -16,6 +18,13 @@ https://x-x.fun/i/WBad0a70e1RWe
 `
 2、趣谈网络协议
 https://x-x.fun/i/ZB84059100b3A
+`
+
+数据库篇
+
+`
+1、MYSQL实战45讲
+https://x-x.fun/i/BHec068d04BYy
 `
 
 消息队列篇
